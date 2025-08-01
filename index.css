@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --brand:#6DA7D4;
+  --text:#2F2F2F;
+  --muted:#F4F4F4;
+}
